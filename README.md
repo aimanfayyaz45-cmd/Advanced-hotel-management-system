@@ -1,4 +1,4 @@
-# Advanced Hotel Management System
+# Hotel Management System cpp
 
 A C++ based Hotel Management System designed to manage hotel operations efficiently.
 
