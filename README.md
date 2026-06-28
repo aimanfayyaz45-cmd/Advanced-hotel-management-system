@@ -1,17 +1,29 @@
-# Hotel Management System cpp
+# Advanced Hotel Management System
 
-A C++ based Hotel Management System designed to manage hotel operations efficiently.
+A console-based Hotel Management System developed in C++ to manage hotel operations efficiently.
 
 ## Features
+
 - Room Booking Management
-- Customer Record Management
+- Guest Record Management
 - Reservation Tracking
 - Billing and Checkout System
+- User-Friendly Menu Interface
 
 ## Technologies Used
+
 - C++
-- File Handling
 - Object-Oriented Programming
+- File Handling
+
+## Learning Outcomes
+
+This project helped me strengthen my understanding of:
+- Programming Fundamentals
+- Data Management
+- Problem Solving
+- Software Development Concepts
 
 ## Author
+
 Aiman Fayyaz
